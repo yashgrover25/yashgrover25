@@ -1,6 +1,6 @@
-## Flutter | LLM | Data Science | Power BI
+## Flutter | LLM | Data Science | Power BI | Firebase 
 
-I am a dedicated developer with a background in creating efficient, user-friendly apps. My specialization is Flutter development, for which I create well-structured, scalable, and organized projects. Currently, I am engaged in different projects and developing my development skills throughout
+I am a dedicated developer with a background in creating efficient, user-friendly apps. My specialization is Flutter development, for which I create well-structured, scalable, and organized projects. Currently, I am engaged in different projects and enhancing my development skills throughout
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -21,7 +21,7 @@ Open to opportunities in app development, web projects, and tech collaborations.
 
 ## 📩 Connect with me and let's build something awesome
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-grover17)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]({https://www.github.com/yashgrover25)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://www.github.com/yashgrover25)
 
 <!--
 **yashgrover25/yashgrover25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
