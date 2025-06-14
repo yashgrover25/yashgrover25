@@ -20,7 +20,7 @@ I like meeting other like-minded professionals, exchanging information, and work
 Open to opportunities in app development, web projects, and tech collaborations.
 
 ## 📩 Connect with me and let's build something awesome
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=)](https://leetcode.com/u/yashgrover25/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-grover17)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://www.github.com/yashgrover25)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ygrover178@gmail.com)
-[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/yashgrover25/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ygrover178@gmail.com)
